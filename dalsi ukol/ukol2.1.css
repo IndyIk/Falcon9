@@ -1,0 +1,17 @@
+<style>
+      body {
+    background: #1e062e;
+    background-image: radial-gradient(at right 50%,#da0361 4%,#850d6f 40%,#3a0445 78%,#1d092f 100%);
+    color: #fff;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+    min-height: 100%;
+}
+  p{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+    min-height: 100%;
+    }
+  </style>
